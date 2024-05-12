@@ -1,3 +1,3 @@
 <?php 
-    $conn = new mysqli("localhost","root","","wildwaves",3307);
+    $conn = new mysqli("localhost","root","","wildwaves");
 ?>
